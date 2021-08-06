@@ -1,0 +1,47 @@
+h4{
+    text-align: center;    
+    color: red;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+h3{
+    text-align: right;
+    color: white;
+}
+header {
+    background-size: 100%;
+    background-image: url(' https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-blockchain-big-data-mobile-phone-technology-image_11331.jpg');               
+    background-repeat: no-repeat;
+    text-align: left;
+    padding: 30px;
+    height: 160px;
+}
+nav a {
+    background-color: #DDDDDD;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 50px;
+    margin: 0px 20px;
+    border: 1px solid transparent;
+    border-radius: 25px;
+    font-size: 1.1em;
+}
+img {
+    width: 100px;
+    border: 3px;
+    margin: 5px auto;
+    padding: 10px;
+    border-radius: 5%;
+    display: block;
+}
+table{
+    background: #FFFFFF;
+    text-align: center;
+    width: 80%;
+    padding: 30px;
+    color: #131232;   
+    margin-right: 0px;
+}
